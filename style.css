@@ -1,0 +1,51 @@
+body {
+  background-color: #191724;
+  color: #e0def4;
+  font-family: "FiraCode Nerd Font", sans;
+}
+h3 {
+  color: #f6c177;
+}
+a {
+  color: #9ccfd8;
+}
+pre, code {
+  background-color: #26233a;
+  color: #e0def4;
+}
+pre:not([class]) {
+  background-color: #555169;
+}
+.hljs-number {
+    color: #31748f;
+}
+.hljs-string {
+    color: #eb6f92;
+}
+.hljs-keyword {
+  color: #c4a7e7;
+}
+.hljs-literal{
+  color: #ebbcba;
+}
+.hljs-number {
+  color: #c4a7e7;
+}
+.hljs-comment {
+  color: #6e6a86;
+}
+.hljs-keyword {
+  color: #9ccfd8;
+}
+.hljs-string {
+  color: #f6c177;
+}
+.tocify-item {
+  color: #e0def4;
+}
+.list-group-item {
+  background-color: #59546d;
+}
+.list-group-item:active, .tocify-item.list-group-item.active {
+  background-color: #817c9c;
+}
