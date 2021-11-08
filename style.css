@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'FiraCode Nerd Font';
+  src: local('FiraCode Nerd Font'), url('https://cdn.discordapp.com/attachments/810799100940255260/907164066504667147/Fira_Code_Regular_Nerd_Font_Complete.ttf') format('truetype');
+}
+
 body {
   background-color: #191724;
   color: #e0def4;
