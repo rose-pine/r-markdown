@@ -23,7 +23,8 @@ output:
 
 ## Gallery
 
-![Knitted doc](https://cdn.discordapp.com/attachments/900508774115192883/902426857138425886/Screenshot_2021-10-25-10-21-35_2560x1440.png)
+![Screenshot_2021-11-21-06-52-25_2560x1440](https://user-images.githubusercontent.com/44733677/142794120-195232cc-4ee8-44c9-af18-4ec643c46649.png)
+
 
 ## Thanks to
 
