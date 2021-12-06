@@ -20,11 +20,15 @@ output:
     html_document:
         css: "style.css"
 ```
-and
+3. For ggplot2, add
 ```r
-```{r message=FALSE, echo=FALSE, warning=FALSE}
-# Preferably put other library() calls here
 source("theme_rose_pine.R")
+```
+when adding libraries, then...
+```r
+ggplot(data, aes(x = x, y = y)) +
+theme_rose_pine() +
+# ...
 ```
 
 ## Gallery
