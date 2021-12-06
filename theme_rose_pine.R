@@ -19,5 +19,6 @@ theme_rose_pine <- function() {
     update_geom_defaults("col", list(color = "#eb6f92", fill = "#ebbcba")) +
     update_geom_defaults("point", list(color = "#c4a7e7")) +
     update_geom_defaults("line", list(color = "#31748f")) +
+    update_geom_defaults("density_2d", list(color = "#c4a7e7")) +
     update_geom_defaults("text", list(color = "#9ccfd8", family = family))
 }
