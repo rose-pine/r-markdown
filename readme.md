@@ -13,12 +13,17 @@
 
 ## Usage
 
-1. Place `style.css` into the same folder as your R markdown file.
+1. Place `style.css` and `theme_rose_pine.R` into the same folder as your R markdown file.
 2. In your document header, include
 ```md
 output:
     html_document:
         css: "style.css"
+```
+and
+```{r message=FALSE, echo=FALSE, warning=FALSE}
+# Preferably put other library() calls here
+source("theme_rose_pine.R")
 ```
 
 ## Gallery
