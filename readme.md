@@ -24,6 +24,9 @@ output:
 ```r
 source("theme_rose_pine.R")
 ```
+> There is also `ggthemr_rose_pine.R` for ggthemr users.
+
+
 when adding libraries, then...
 ```r
 ggplot(data, aes(x = x, y = y)) +
