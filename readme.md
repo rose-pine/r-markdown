@@ -13,7 +13,7 @@
 
 ## Usage
 
-1. Place `style.css` and `theme_rose_pine.R` into the same folder as your R markdown file.
+1. Place `style.css` (and `theme_rose_pine.R` for ggplot2) into the same folder as your R markdown file.
 2. In your document header, include
 ```md
 output:
