@@ -31,6 +31,8 @@ theme_rose_pine() +
 # ...
 ```
 
+> Edit `theme_rose_pine.R` in the marked comments to add a custom font.
+
 ## Gallery
 
 ![Screenshot_2021-11-21-06-52-25_2560x1440](https://user-images.githubusercontent.com/44733677/142794120-195232cc-4ee8-44c9-af18-4ec643c46649.png)
