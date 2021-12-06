@@ -1,10 +1,10 @@
 theme_rose_pine <- function() {
-  family <- "FiraCode Nerd Font"
-  theme_bw(base_family = family) %+replace%
+  # family <- "FiraCode Nerd Font"
+  theme_bw() %+replace% # theme_bw(base_family = family) instead if you're using a custom font
     theme(
       text = element_text(
         color = "#e0def4",
-        family = family,
+        # family = family,
         face = "plain"
       ),
       plot.background = element_rect(fill = '#191724', color = '#6e6a86'),
@@ -20,5 +20,7 @@ theme_rose_pine <- function() {
     update_geom_defaults("point", list(color = "#c4a7e7")) +
     update_geom_defaults("line", list(color = "#31748f")) +
     update_geom_defaults("density_2d", list(color = "#c4a7e7")) +
-    update_geom_defaults("text", list(color = "#9ccfd8", family = family))
+    update_geom_defaults("text", list(color = "#9ccfd8", 
+                                      # family = family
+    ))
 }
