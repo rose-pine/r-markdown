@@ -21,6 +21,7 @@ output:
         css: "style.css"
 ```
 and
+```r
 ```{r message=FALSE, echo=FALSE, warning=FALSE}
 # Preferably put other library() calls here
 source("theme_rose_pine.R")
@@ -30,6 +31,11 @@ source("theme_rose_pine.R")
 
 ![Screenshot_2021-11-21-06-52-25_2560x1440](https://user-images.githubusercontent.com/44733677/142794120-195232cc-4ee8-44c9-af18-4ec643c46649.png)
 
+![image](https://user-images.githubusercontent.com/44733677/144792336-e8fd4a3f-8fad-445a-afca-c5a58f0e7c47.png)
+
+![image](https://user-images.githubusercontent.com/44733677/144792393-bb87e0f3-afe8-488a-9b2a-91fdfb60b4ea.png)
+
+![image](https://user-images.githubusercontent.com/44733677/144792417-7460cef9-a558-4dcf-9141-d880d2e23884.png)
 
 ## Thanks to
 
